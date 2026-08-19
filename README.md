@@ -22,7 +22,14 @@ A simple, ready-to-use Discord music bot template built with Python.
 ### 2. Local Setup
 
 1. Clone this repository.
-2. Install dependencies:
+   ```bash
+   git clone https://github.com/amirsohail100/Discord-Music-Bot.git
+   ```
+2. Navigate to the project directory.
+   ```bash
+   cd Discord-Music-Bot
+   ```
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
